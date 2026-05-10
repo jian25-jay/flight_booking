@@ -1,0 +1,20 @@
+# Sensitive credentials
+.env
+
+# Local logs and temp files
+error.log
+cookies.txt
+admin_cookies.txt
+
+# PHP specific
+vendor/
+composer.lock
+temp/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
